@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Ebubechukwu and I'm a Computer Engineering Student interested in Full Stack Development but mostly focus on FrontEnd Development!
+
 - 🔭 I’m currently working on bootstrap and react related projects.
 - 🌱 I’m currently learning react, redux and jest testing.
 - 👯 I’m looking to collaborate on frontend related projects.
