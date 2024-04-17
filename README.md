@@ -23,6 +23,8 @@ I'm a Nigerian Computer Engineering Student, a passionate full stack web develop
 <img align="left" alt="MySQL" width="30px" height="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
 <br/>
 
-#
+  ---
+
           
-          
+### 📊 Stats
+![Ebubechukwu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ebubechukwuonwukwe&show_icons=true&theme=gruvbox)
