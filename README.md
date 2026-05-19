@@ -28,4 +28,4 @@ I'm a Computer Engineer and a passionate Full-Stack Developer with proven expert
 
 
 ### 📊 Stats
-![Ebubechukwu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ebubechukwuonwukwe&show_icons=true&theme=gruvbox)
+![Ebubechukwu's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=ebubechukwuonwukwe&show_icons=true&theme=gruvbox)
